@@ -14,5 +14,11 @@ namespace demoUnitTest
         {
             Assert.AreEqual(0, 0);
         }
+
+        public void Test2()
+        {
+            Console.WriteLine("Test");
+        }
+
     }
 }
