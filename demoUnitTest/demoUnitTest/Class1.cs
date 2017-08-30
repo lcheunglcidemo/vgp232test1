@@ -12,6 +12,7 @@ namespace demoUnitTest
         [Test]
         public void Test()
         {
+            // add a comment here
             Assert.AreEqual(0, 0);
         }
 
